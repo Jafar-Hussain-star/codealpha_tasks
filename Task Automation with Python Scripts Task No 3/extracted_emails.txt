@@ -1,0 +1,4 @@
+alice@example.com
+bob.smith@work.net
+marketing-123@promo.org
+user@sub.domain.co

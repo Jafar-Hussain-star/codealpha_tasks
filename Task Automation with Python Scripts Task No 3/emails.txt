@@ -1,0 +1,6 @@
+Contact List:
+Alice <alice@example.com>
+Bob (bob.smith@work.net) is here.
+No email here.
+marketing-123@promo.org
+Final Check: user@sub.domain.co
